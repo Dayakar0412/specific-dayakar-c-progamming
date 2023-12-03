@@ -1,1 +1,3 @@
-gcc -o beacon_program Accelometer_reader.c && ./beacon_program
+#!/bin/bash
+
+gcc -o Accelerometer_program Accelometer_reader.c && ./Accelerometer_program
